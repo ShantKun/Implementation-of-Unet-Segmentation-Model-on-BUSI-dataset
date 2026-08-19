@@ -69,6 +69,9 @@ Semantic segmentation of breast tumours from ultrasound images using a UNet trai
 - Training curves: Loss · DSC · IoU · Precision · Recall  
 - Pixel-level confusion matrix (normalised)  
 - R² score bar
+- <p align="center">
+  <img src="assets/visualizations.png" alt="Model Visualisations" width="900">
+</p>
 
 ---
 
